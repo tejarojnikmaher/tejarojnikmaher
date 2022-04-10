@@ -6,6 +6,6 @@ I am a Payroll Analyst and I am currently working on personal projects to broade
 
 📊 Data Projects SQL + Tableau: Exploring 2021 Covid World Data and Creating a Simple Dashboard
 
-📫 Kaggle and Tableau Kaggle Account My Tableau https://public.tableau.com/app/profile/teja.rojnik.maher#!/
+📫  Tableau Account: https://public.tableau.com/app/profile/teja.rojnik.maher#!/
 
 📫 Contact teja.rojnik@gmail.com
